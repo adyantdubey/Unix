@@ -1,0 +1,18 @@
+This is a sample text file.
+It contains various lines of text for demonstration purposes.
+We will use this file to showcase different shell commands.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Praesent rhoncus venenatis dolor, ac pharetra enim gravida eu.
+
+ Suspendisse ante mauris, interdum ac elit ut, accumsan fringilla odio.
+
+ Sed lacus nulla, condimentum in accumsan a, venenatis eget nibh
+
+. Integer a ex eros. Nam dui nisi, ullamcorper eget sem quis, tristique vulputate turpis.
+
+ Mauris ligula risus, pharetra id auctor in, interdum ut nunc.
+
+ Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce at arcu sit amet leo congue vulputate.
+
+
+
