@@ -1,0 +1,5 @@
+Hello my name is adyant
+i am a second year student at NIT AP
+this is a demo file for the usage of some commands
+
+

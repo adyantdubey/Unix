@@ -1,0 +1,3 @@
+hello my name is adyanta dubey i am a student of NIT AP
+this is the second line of the file
+this is a copied file
